@@ -1,0 +1,14 @@
+c:\users\userr\documents\visual studio 2013\Projects\TestApp\bin\Debug\TestApp.exe.config
+c:\users\userr\documents\visual studio 2013\Projects\TestApp\bin\Debug\TestApp.exe
+c:\users\userr\documents\visual studio 2013\Projects\TestApp\bin\Debug\TestApp.pdb
+c:\users\userr\documents\visual studio 2013\Projects\TestApp\bin\Debug\EntityFramework.dll
+c:\users\userr\documents\visual studio 2013\Projects\TestApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\userr\documents\visual studio 2013\Projects\TestApp\bin\Debug\System.Data.SQLite.dll
+c:\users\userr\documents\visual studio 2013\Projects\TestApp\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\userr\documents\visual studio 2013\Projects\TestApp\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\userr\documents\visual studio 2013\Projects\TestApp\bin\Debug\EntityFramework.xml
+c:\users\userr\documents\visual studio 2013\Projects\TestApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\userr\documents\visual studio 2013\Projects\TestApp\bin\Debug\System.Data.SQLite.xml
+c:\users\userr\documents\visual studio 2013\Projects\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+c:\users\userr\documents\visual studio 2013\Projects\TestApp\obj\Debug\TestApp.exe
+c:\users\userr\documents\visual studio 2013\Projects\TestApp\obj\Debug\TestApp.pdb

@@ -1,0 +1,13 @@
+C:\Users\userr\documents\visual studio 2013\Projects\TestApp\bin\Release\TestApp.exe.config
+C:\Users\userr\documents\visual studio 2013\Projects\TestApp\bin\Release\TestApp.exe
+C:\Users\userr\documents\visual studio 2013\Projects\TestApp\bin\Release\TestApp.pdb
+C:\Users\userr\documents\visual studio 2013\Projects\TestApp\bin\Release\EntityFramework.dll
+C:\Users\userr\documents\visual studio 2013\Projects\TestApp\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\userr\documents\visual studio 2013\Projects\TestApp\bin\Release\System.Data.SQLite.dll
+C:\Users\userr\documents\visual studio 2013\Projects\TestApp\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\userr\documents\visual studio 2013\Projects\TestApp\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\userr\documents\visual studio 2013\Projects\TestApp\bin\Release\EntityFramework.xml
+C:\Users\userr\documents\visual studio 2013\Projects\TestApp\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\userr\documents\visual studio 2013\Projects\TestApp\bin\Release\System.Data.SQLite.xml
+C:\Users\userr\documents\visual studio 2013\Projects\TestApp\obj\Release\TestApp.exe
+C:\Users\userr\documents\visual studio 2013\Projects\TestApp\obj\Release\TestApp.pdb
